@@ -1,58 +1,48 @@
-<h2 align="center">👋Hi there!👋 I'm Macarena!👩🏽‍💻 </h2>
+<h2 align="center">👋¡Hola!👋 ¡Soy Macarena!👩🏽‍💻 </h2>
 <p align="center">
-  <a href="https://twitter.com/mpenacasares"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
-    <a href="https://www.linkedin.com/in/mpenacasares/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a>
-   
+  📫 <a href="mailto:m.penacasares@gmail.com">m.penacasares@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/mpenacasares/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a>
 </p>
 
-## ✨About Me✨
-Hi! I'm a Civil Engineer with an MBA 👷🏽‍♀️ turned Front End Developer 👩🏽‍💻.
+## ✨Sobre mí✨
+¡Hola! Soy Ingeniera Civil con un MBA, reconvertida en Analista de Datos📊, con experiencia previa como Desarrolladora de Software 👩🏽‍💻.
 
-During my previous work experience I have worked for major companies in functional project management positions 📊, which has allowed me to develop qualities such as planning, stress tolerance and the ability to work under pressure💪🏽.
+Mi experiencia en desarrollo de software me aporta una sólida base tecnológica, lo que, combinado con mis habilidades en análisis y visualización de datos (Python, SQL, Tableau, Power BI), me permite abordar desafíos complejos y transformar información en conocimiento.
 
-However, my interest in technology (specifically programming🖥️) and the search for a direct involvement in the development of the final product led me to become a Front-End Developer 🚀 👩‍💻.
+Busco contribuir en proyectos que aprovechen al máximo el valor de los datos en la toma de decisiones estratégicas 🚀.
 
-I am characterised by my proactivity, discipline and commitment to the work I develop👏, as well as by my good interpersonal skills 🤝🏽, which I consider essential to achieve professional success🔝.
+Me caracterizo por mi proactividad, disciplina y compromiso con el trabajo que realizo, así como por mis buenas habilidades interpersonales 🤝🏽, que considero esenciales para alcanzar el éxito profesional🔝.
 
 ---
-- 👩🏽‍💻 I´m graduated as Front End Developer at [Adalab](https://adalab.es/)
-- 🚀 I’m currently looking for my first job as a Front End Developer!
-- 📫 Email: <a href="mailto:m.penacasares@gmail.com">m.penacasares@gmail.com</a>
-- ⚡ Fun fact: I am a video game lover 🎮 (Nintendo❤️) and enjoy doing sport 🏃🏽‍♀️🏋🏽‍♀️
+- 📊 Graduada recientemente como Analista de Datos en <a href="https://adalab.es/bootcamp-data/">Adalab</a>.  
+- 🚀 Actualmente buscando una oportunidad como Data Analytics o Data Engineer.  
+- 👩🏽‍💻 Experiencia previa: Desarrolladora de Software (Uground Global), Analista de Ventas de Refino (Repsol) y Gestión de Proyectos de Ingeniería (Exolum).  
+- ⚡ Dato curioso: Bailo salsa y bachata 💃🏽, y soy fan de Nintendo 🎮❤.  
 ---
-<h3 align="left">Tech Stack:</h3>
-<img align="left" alt="HTML5" title='HTML5' width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<h3 align="left">💻Tecnologías y herramientas💻</h3>
+<h4>Análisis de Datos 📊</h4>
+<ul>
+  <li>Python (Pandas, Numpy, Matplotlib, Seaborn, Sklearn) </li>
+  <li>SQL</li>
+  <li>MySQL</li>
+  <li>PowerBI (Modelado de datos, DAX, generación de Dashboard interactivos) </li>
+  <li>Tableau</li>
+  <li>VSCode</li>
+  <li>Git</li>
+  <li>Terminal</li>
+  <li>Filosofía Agile y marco de trabajo Scrum</li>
+</ul>
+<h4>Desarrollo de Software 👩‍💻</h4>
+<ul>
+  <li>Java</li>
+  <li>JavaScript (ES6)</li>
+  <li>React</li>
+  <li>HTML5</li>
+  <li>CSS3 (Flexbox, CSS Grid, SASS, Bootstrap)</li>
+  <li>Node.js</li>
+  <li>Express</li>
+</ul>
 
-<img align="left" alt="CSS3" title='CSS3' width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="JavaScript" title='JavaScript' width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" title='React' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-
-<img align="left" alt="Gulp" title='Gulp' width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
-
-<img align="left" alt="Git" title='Git' width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="Bootstrap" title='Bootstrap' width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
-<img align="left" alt="Sass" title='Sass' width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="nodejs" title='nodejs' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-
-<br>
-<br>
-
-<h3 align="left">Tools:</h3>
-<img align="left" alt="Github" title='Github' width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
-
-<img align="left" alt="Npm" title='Npm' width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-
-<img align="left" alt="Visual Studio Code" title='Visual Studio Code' width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-
-<img align="left" alt="Zeplin" title='Zeplin' width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" />
-
-<img align="left" alt="Slack" title='Slack' width="30px" src="https://img.icons8.com/color/452/slack-new.png" />
-
-<img align="left" alt="PowerBI" title='PowerBI' width="35px" src="https://img.icons8.com/dusk/64/000000/power-bi.png" />
 
 
