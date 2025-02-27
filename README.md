@@ -22,6 +22,16 @@ Me caracterizo por mi proactividad, disciplina y compromiso con el trabajo que r
 ---
 
 <h3 align="left">💻Portfolio💻</h3>
+<h4>📁 Proyectos personales 📁</h4>
+
+📊 **Análisis de Abandono de Clientes - BlueBank:** Estudio de los factores que influyen en el abandono de clientes en BlueBank, una entidad financiera ficticia. Se analizaron patrones y estrategias de retención basadas en datos para minimizar la pérdida de clientes. <br>
+<ul>
+  <li>Objetivo: Identificar factores clave que afectan el abandono y proponer estrategias basadas en datos para mejorar la fidelización.</li>
+  <li>Tecnologías empleadas: Python (Pandas, Matplotlib, Seaborn, MySQL Connector, Dotenv), MySQL (Almacenamiento de datos) y Power BI (Visualización y Dashboard).</li>
+  <li><a href="https://github.com/mpenacasares/Analisis_Abandono_Clientes">Ver proyecto</a></li>
+</ul>
+<br>
+
 <h4>📚 Proyectos desarrollados en Adalab 📚</h4>
 
 👾 **Reinvención de Juegos Clásicos con Python:** Desarrollo de versiones digitales de juegos como Piedra, Papel o Tijera, Ahorcado y Preguntas y Respuestas. <br>
@@ -68,9 +78,6 @@ Me caracterizo por mi proactividad, disciplina y compromiso con el trabajo que r
   <li><a href="https://github.com/mpenacasares/bda-modulo-3-evaluacion-final-mpenacasares">Módulo 3: Transformando Datos</a> Nota: Notable</li>
 </ul>
 <br>
-<h4>📁 Proyectos personales 📁</h4>
-Work in progress ✨ Trabajando en nuevos proyectos que pronto iré publicando 💪
-<hr>
 
 <h3 align="left">⚒️Tecnologías y herramientas⚒️</h3>
 <h4>Análisis de Datos 📊</h4>
