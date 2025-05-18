@@ -6,17 +6,18 @@
 </p>
 
 ## ✨Sobre mí✨
-¡Hola! Soy Ingeniera Civil con un MBA, reconvertida en Analista de Datos📊, con experiencia previa como Desarrolladora de Software 👩🏽‍💻.
+¡Hola! Soy Ingeniera Civil con un MBA, reconvertida en Ingeniera de Datos📊, con experiencia previa como Desarrolladora de Software 👩🏽‍💻.
 
-Mi experiencia en desarrollo de software me aporta una sólida base tecnológica, lo que, combinado con mis habilidades en análisis y visualización de datos (Python, SQL, Tableau, Power BI), me permite abordar desafíos complejos y transformar información en conocimiento.
+He trabajado en sectores como energía e hidrocarburos, ocupando roles en gestión de proyectos y análisis de datos, y también como Desarrolladora de Software, donde fortalecí mis habilidades técnicas y mi capacidad para desarrollar soluciones digitales.
 
-Busco contribuir en proyectos que aprovechen al máximo el valor de los datos en la toma de decisiones estratégicas 🚀.
+Después de esta etapa, comienzo con muchísima ilusión una nueva aventura profesional como Ingeniera de Datos en Merkle (compañía del grupo dentsu).
+
+Me apasiona el potencial que tienen los datos para generar impacto real en las organizaciones, y afronto este nuevo reto con muchas ganas de seguir creciendo y aprendiendo en el sector tecnológico.📊🚀
 
 Me caracterizo por mi proactividad, disciplina y compromiso con el trabajo que realizo, así como por mis buenas habilidades interpersonales 🤝🏽, que considero esenciales para alcanzar el éxito profesional🔝.
 
 ---
-- 📊 Graduada recientemente como Analista de Datos en <a href="https://adalab.es/bootcamp-data/">Adalab</a>.  
-- 🚀 Actualmente buscando una oportunidad como Data Analytics o Data Engineer.  
+- 🚀 Actualmente trabajando como Data Engineer en <a href="https://www.merkle.com/es.html">Merkle</a>.  
 - 👩🏽‍💻 Experiencia previa: Desarrolladora de Software (Uground Global), Analista de Ventas de Refino (Repsol) y Gestión de Proyectos de Ingeniería (Exolum).  
 - ⚡ Dato curioso: Bailo salsa y bachata 💃🏽, y soy fan de Nintendo 🎮❤.  
 ---
